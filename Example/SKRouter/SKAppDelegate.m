@@ -7,7 +7,7 @@
 //
 
 #import "SKAppDelegate.h"
-
+#import "SKRouter.h"
 @implementation SKAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions

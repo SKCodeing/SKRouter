@@ -1,0 +1,16 @@
+PODS:
+  - SKRouter (0.1.0)
+
+DEPENDENCIES:
+  - SKRouter (from `../`)
+
+EXTERNAL SOURCES:
+  SKRouter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SKRouter: 07bb70c8cdbb4cfdac8ba7b230680b97584a6c62
+
+PODFILE CHECKSUM: 6d7b7c0fcb3a7bb9377226ed4e29a2e8e17a54dc
+
+COCOAPODS: 1.11.2

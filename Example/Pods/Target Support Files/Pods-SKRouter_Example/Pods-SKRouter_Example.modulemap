@@ -1,0 +1,6 @@
+framework module Pods_SKRouter_Example {
+  umbrella header "Pods-SKRouter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

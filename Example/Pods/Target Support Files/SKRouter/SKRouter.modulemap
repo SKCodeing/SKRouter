@@ -1,0 +1,6 @@
+framework module SKRouter {
+  umbrella header "SKRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
