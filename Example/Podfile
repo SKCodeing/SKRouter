@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SKRouter_Example' do
+  pod 'SKRouter', :path => '../'
+
+  target 'SKRouter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
